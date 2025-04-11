@@ -1,0 +1,12 @@
+button:hover {
+  color: green;
+  opacity: 40%;
+  transition: 0.7s;
+}
+button {
+  color: green;
+  /* background-color: black; */
+  border-radius: 50px;
+  border: none;
+  padding: 0.5%;
+}
